@@ -107,5 +107,5 @@ let winningConditions = [
 //Most difficult 
 //1. Find out how to stop game after winner (complete)
 //2. Find out how to display winner (complete)
-//3. Find out how to make it draw (complete)
+//3. Find out how to make it draw (incomplete)
 //4. Find out how to start over game (complete)
