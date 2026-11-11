@@ -70,9 +70,6 @@ function checkForWinner(){
 
 }
 
-
-//Display Winner(shown above)
-
 //Start Over 
     startOver.addEventListener('click', restart)
 
